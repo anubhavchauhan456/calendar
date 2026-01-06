@@ -20,7 +20,7 @@
     "exclude": "**/*.test.js"
   },
   "keywords": [],
-  "author": "Manish Mahant",
+  "author": "Anubhav Chauhan",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.421.0",
