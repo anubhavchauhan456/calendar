@@ -1,4 +1,4 @@
-# zillit_server-boilerplate
+# boilerplate
 
 # versioning
   - v1 folder has been added to all the directories where different versions are possible
@@ -69,10 +69,6 @@
 ```
 
 # .npmrc
-  needed for installation of zillit-lib
-    ```
-      npm i git+https://github.com/rockims/zillit_libs.git#main
-    ```
 
   .npmrc content
   ```
